@@ -43,11 +43,13 @@ git clone https://github.com/Agontuk19/CrypticEngine.git
 cd CrypticEngine
 npm install
 npm run dev
+```
 
 ---
 
 ## Project Structure
 
+```bash
 src/
 ├── components/
 │   ├── Encrypt/
@@ -56,6 +58,7 @@ src/
 ├── pages/
 ├── assets/
 └── App.jsx
+```
 
 --- 
 
